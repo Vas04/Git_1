@@ -6630,7 +6630,7 @@
 		"gulp-typescript/**/glob-parent": "^5.1.2"
 	},
 	"__metadata": {
-		"installedTimestamp": 1750916283644,
+		"installedTimestamp": 1753952284758,
 		"targetPlatform": "win32-x64",
 		"size": 245193867
 	}
